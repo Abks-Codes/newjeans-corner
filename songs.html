@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="NewJeans music videos and discography.">
+    <title>NewJeans Fan Site - Songs</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <img src="photos/newjeans-logo.png" alt="NewJeans logo" id="logo">
+  </header>
+
+  <nav id="nav-bar">
+    <div id="pages">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="songs.html" class="active-link">Songs</a></li>
+        <li><a href="socials.html">Socials</a></li>
+        <li><a href="idk">idk</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main id="container">
+
+    <div id="player-wrap">
+      <div id="video-frame">
+        <iframe
+          id="mv-player"
+          src="https://www.youtube.com/embed/ghrlZIMDzbM"
+          title="NewJeans MV player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+        </iframe>
+      </div>
+      <p id="now-playing">Now playing: <span id="now-playing-title">Hype Boy</span></p>
+    </div>
+
+    <div id="song-list">
+      <div class="song active" data-id="ghrlZIMDzbM">Hype Boy</div>
+      <div class="song" data-id="Km71Rr9K-Bw">Ditto</div>
+      <div class="song" data-id="vrM2mrI83uk">How Sweet</div>
+      <div class="song" data-id="XCkpalH6Ppk">ETA</div>
+      <div class="song" data-id="kdOS94IjzzE">Attention</div>
+      <div class="song" data-id="0M4QMVQJRsw">Cookie</div>
+      <div class="song" data-id="Krr2u8BUtLw">New Jeans</div>
+    </div>
+
+    <p id="more-link">
+      Want more? Check out
+      <a href="https://www.youtube.com/@NewJeans_official" target="_blank" rel="noopener noreferrer">NewJeans' official YouTube channel</a>.
+    </p>
+
+  </main>
+
+  <script src="songs.js"></script>
+</body>
+</html>
