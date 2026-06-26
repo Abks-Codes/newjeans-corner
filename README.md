@@ -85,4 +85,4 @@ Created by **Abks-Codes**
 
 GitHub: [@Abks-Codes](https://github.com/Abks-Codes)
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/75ca2d03-a2d8-49f8-b023-675d76df6c69" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/75ca2d03-a2d8-49f8-b023-675d76df6c69" />
