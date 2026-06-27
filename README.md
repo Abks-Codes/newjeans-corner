@@ -2,14 +2,6 @@
 
 A fan-made NewJeans website celebrating the members, music videos, and socials of NewJeans. The site includes an interactive homepage where users can click each member to learn more about them, plus a songs page with an embedded music video player.
 
-## 🌐 Live Demo
-
-Add your GitHub Pages link here after you publish it:
-
-```text
-https://abks-codes.github.io/newjeans-corner/
-```
-
 ## ✨ Features
 
 * Interactive member cards
